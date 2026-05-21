@@ -1,7 +1,7 @@
 FROM openproject/openproject:17
 
 ENV OPDATA=/var/openproject/assets
-ENV SECRET_KEY_BASE=changeme_change_this_64_char_hex
+ENV SECRET_KEY_BASE=8c69da9335d56722d40aac428cfa527bf41b228c5a90d1832399c540a947a7b6
 
 USER root
 
